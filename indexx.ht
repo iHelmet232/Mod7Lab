@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="index.css">
+	</head>
+	<body>
+		<h1>Here is my grid!</h1>
+		<ul class="list">
+			<li>Batman</li>
+			<li>Superman</li>
+			<li>Aquaman</li>
+			<li>Iron Man</li>
+			<li>Holy Man</li>
+			<li>Antman</li>
+		</ul>
+	</body>
+</html>
