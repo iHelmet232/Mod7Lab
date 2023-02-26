@@ -58,7 +58,7 @@
 }
 
 .container {
-   display:flex;
+   display: flex;
   justify-content: space-evenly;
   align-items: baseline;
 </html>
